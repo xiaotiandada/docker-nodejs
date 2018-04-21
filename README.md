@@ -15,7 +15,7 @@
 
 https://github.com/tingiris/dabblelab-youtube-channel/tree/master/2017-07-21-docker-with-nodejs
 
-YouTube有视频，我这里简单翻译一下，同时候自己也加深学习
+YouTube有视频，我这里简单翻译一下，同时自己也加深学习
 
 ### 首先需要 Docker Node.js
 
